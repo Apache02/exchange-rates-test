@@ -1,6 +1,7 @@
 {
   "base": "BTC",
   "rates": {
+    "USD_BTC": 0.000000283,
     "ETH_BTC": 0.069120,
     "BNB_BTC": 0.010578
   }
