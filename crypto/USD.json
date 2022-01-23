@@ -1,0 +1,10 @@
+{
+  "base": "USD",
+  "rates": {
+    "BTC_USD": 35374.64,
+    "ETH_USD": 2443.83,
+    "USDT_USD": 1,
+    "BNB_USD": 375.7,
+    "USDC_USD": 0.99990
+  }
+}
